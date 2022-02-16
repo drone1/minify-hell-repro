@@ -47,4 +47,4 @@ alanning:roles
 meteortesting:mocha
 tunifight:loggedin-mixin
 fourseven:scss
-standard-minifiers-js
+standard-minifier-js
